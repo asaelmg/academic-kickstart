@@ -63,5 +63,5 @@ user_groups:
 - Visitors
 ---
 
-Experienced Business Analyst with over 7 years of professional experience in successful business analysis roles. I have worked closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. I have created and maintained multiple dashboards in order to communicate data concepts to managers, directors, and cross functional teams. Finally, I have supported other ad hoc requests and projects based on business needs while performing independent analysis on unreported areas of the business.
+Experienced analyst with over 7 years of professional experience in successful business analysis roles. Working closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. Creating and maintaining multiple dashboards in order to communicate data concepts to managers, directors, and cross functional teams. Supporting ad hoc requests and various projects based on business needs while performing independent analysis on unreported areas of the business.
 
