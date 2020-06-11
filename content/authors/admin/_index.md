@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - Business Analyst Nanodegree, Data Analytics
-    Udacity
+    institution: Udacity
     year: 2018
   - Bachelor of Science - BS, Business Administration Information Systems
-    DeVry
+    institution: DeVry
     year: 2013
 
 
