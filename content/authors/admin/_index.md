@@ -22,18 +22,16 @@ bio: short bio
 
 interests:
 - Business Intelligence
-- Data Analytics
 
 
 education:
   courses:
-  - Business Analyst Nanodegree, Data Analytics
-    institution: Udacity
-    year: 2018
-  - Bachelor of Science - BS, Business Administration Information Systems
-    institution: DeVry
-    year: 2013
-
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,4 +61,3 @@ user_groups:
 ---
 
 Experienced analyst with over seven years of professional experience in successful business analysis roles. Working closely with internal stakeholders to provide solutions and findings based on relevant data from different data sources. Creating and maintaining multiple dashboards in order to communicate data concepts to managers, directors, and cross functional teams. Supporting ad hoc requests and various projects based on business needs while performing independent analysis on unreported areas of the business.
-
