@@ -113,8 +113,8 @@ office_hours = ["Monday - Friday 8:00am to 4:00pm"]
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/asaelmgarcia"},
   {icom = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/asaelgarcia/"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:asaelmgarcia?call"}
-  #,{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:asaelmgarcia?call"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"}
   ]
