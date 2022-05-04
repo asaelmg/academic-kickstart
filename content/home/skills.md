@@ -18,19 +18,43 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  # description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Tableau"
+  # description = "100%"  
   
   [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "database"
+  icon_pack = "fab"
+  name = "Microsoft SQL Server"
+  # description = "100%"  
+  
+  [[feature]]
+  icon = "table-columns"
+  icon_pack = "fab"
+  name = "Snowflake SQL"
+  # description = "100%"  
+  
+  [[feature]]
+  icon = "table-columns"
+  icon_pack = "fab"
+  name = "PostgreSQL"
+  # description = "100%"  
+  
+  [[feature]]
+  icon = "table-columns"
+  icon_pack = "fab"
+  name = "Oracle SQL"
+  # description = "100%" 
+  
+  [[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "DataGrip"
+  # description = "100%"  
   
 # Uncomment to use emoji icons.
 # [[feature]]
