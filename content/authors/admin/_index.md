@@ -22,16 +22,19 @@ bio: short bio
 
 interests:
 - Business Intelligence
+- Analytics
+- Coding
+- Drumming
 
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Bussiness Administration
+    institution: DeVry University
+    year: 2013
+  - course: Business Analyst Nanodegree Certification
+    institution: Udacity
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
