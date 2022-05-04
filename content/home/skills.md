@@ -26,6 +26,12 @@ subtitle = ""
   name = "Statistics"
   description = "100%"  
   
+  [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "100%"  
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
