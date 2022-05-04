@@ -24,7 +24,6 @@ interests:
 - Business Intelligence
 - Analytics
 - Coding
-- Drumming
 
 education:
   courses:
