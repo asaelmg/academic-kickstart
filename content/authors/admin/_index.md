@@ -32,7 +32,7 @@ education:
   - course: Bussiness Administration
     institution: DeVry University
     year: 2013
-  - course: Business Analyst Nanodegree Certification
+  - course: Business Analyst Certification
     institution: Udacity
     year: 2018
 
