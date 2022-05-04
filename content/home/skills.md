@@ -27,31 +27,31 @@ subtitle = ""
   # description = "100%"  
   
  [[feature]]
-  icon = "database"
+  icon = "fa-database"
   icon_pack = "fab"
   name = "Microsoft SQL Server"
   # description = "100%"  
   
  [[feature]]
-  icon = "table-columns"
+  icon = "fa-table-list"
   icon_pack = "fab"
   name = "Snowflake SQL"
   # description = "100%"  
   
  [[feature]]
-  icon = "table-columns"
+  icon = "fa-table-list"
   icon_pack = "fab"
   name = "PostgreSQL"
   # description = "100%"  
   
  [[feature]]
-  icon = "table-columns"
+  icon = "fa-table-list"
   icon_pack = "fab"
   name = "Oracle SQL"
   # description = "100%" 
   
  [[feature]]
-  icon = "database"
+  icon = "fa-database"
   icon_pack = "fab"
   name = "DataGrip"
   # description = "100%"  
