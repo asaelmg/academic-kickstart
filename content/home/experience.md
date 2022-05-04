@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Revenue Assurance Analyst"
+  company = "Wide Open West"
+  company_url = "https://www.wowway.com/"
+  location = "Englewood, CO"
+  date_start = "2019-05-13"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Ad-hoc Analysis
+  * Database Querying
+  * Data Analysis
+  * Building and Maintaining Reporting Dashboards
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Business Analyst"
+  company = "AT&T"
+  company_url = "https://www.att.com/"
+  location = "Dallas, TX"
+  date_start = "2016-06-01"
+  date_end = "2019-02-18"
+  description = """
+  Responsibilities include:
+  
+  * Ad-hoc Analysis
+  * Database Querying
+  * Prepared detailed and summarized high level reporting for internal departments using a variety of data fields.
+  * Creating stored procedures for reporting and data analysis.
+  """
+  
+[[experience]]
+  title = "Business Analyst"
+  company = "Directv"
+  company_url = "https://www.att.com/"
+  location = "Dallas, TX"
+  date_start = "2013-12-01"
+  date_end = "2016-06-01"
+  description = """
+  Responsibilities include:
+  
+  * Ad-hoc Analysis
+  * Database Querying
+  * Analyzed data from field operations to identify trends and similarities in order to improve the customer’s experience, improving completion rates and identifying potential markets and home service providers that are below goal
 
 +++
