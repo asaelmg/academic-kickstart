@@ -31,7 +31,7 @@ education:
   - course: Business Analyst Certification
     institution: Udacity
     year: 2018
-  - course: Bussiness Administration
+  - course: Business Administration
     institution: DeVry University
     year: 2013
 
