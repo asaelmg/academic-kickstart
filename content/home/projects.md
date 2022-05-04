@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
   name = "Identifying Unprofitable Subscribers"
-  tag = "Analytics"
+  tag = "*"
   
   [[content.filter_button]]
   name = "Deep Learning"
