@@ -33,25 +33,25 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "table"
   icon_pack = "fas"
   name = "Snowflake SQL"
   # description = "100%"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "table"
   icon_pack = "fas"
   name = "PostgreSQL"
   # description = "100%"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "table"
   icon_pack = "fas"
   name = "Oracle SQL"
   # description = "100%" 
   
 [[feature]]
-  icon = "chart-line"
+  icon = "database"
   icon_pack = "fas"
   name = "DataGrip"
   # description = "100%"  
