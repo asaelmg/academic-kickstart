@@ -27,7 +27,7 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fab"
   name = "Microsoft SQL Server"
   # description = "100%"  
@@ -39,20 +39,20 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = "fa-table-list"
+  icon = "table-list"
   icon_pack = "fab"
   name = "PostgreSQL"
   # description = "100%"  
   
 [[feature]]
-  icon = "fa-table-list"
+  icon = "table-list"
   icon_pack = "fab"
   name = "Oracle SQL"
   # description = "100%" 
   
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "DataGrip"
   # description = "100%"  
   
