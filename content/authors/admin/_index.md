@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Revenue Assurance Analyst
+role: Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Analytics
+- name: Business Intelligence/Analytics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
