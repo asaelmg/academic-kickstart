@@ -26,15 +26,14 @@ interests:
 - Coding
 - Drumming
 
-
 education:
   courses:
-  - course: Bussiness Administration
-    institution: DeVry University
-    year: 2013
   - course: Business Analyst Certification
     institution: Udacity
     year: 2018
+  - course: Bussiness Administration
+    institution: DeVry University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
