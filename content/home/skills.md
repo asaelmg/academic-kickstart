@@ -27,7 +27,7 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "table"
   icon_pack = "fas"
   name = "Microsoft SQL Server"
   # description = "100%"  
