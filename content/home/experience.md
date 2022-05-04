@@ -61,6 +61,6 @@ date_format = "Jan 2006"
   
   * Ad-hoc Analysis
   * Database Querying
-  * Analyzed data from field operations to identify trends and similarities in order to improve the customer’s experience, improving completion rates and identifying potential markets and home service providers that are below goal
+  * Analyzed data from field operations to identify trends and report business opportunities to increase efficiency
 
 +++
