@@ -51,7 +51,7 @@ subtitle = ""
   # description = "100%"
   
 [[feature]]
-  icon = "table"
+  icon = "database"
   icon_pack = "fas"
   name = "SAS"
   # description = "100%"   
