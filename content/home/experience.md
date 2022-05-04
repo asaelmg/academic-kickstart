@@ -62,5 +62,6 @@ date_format = "Jan 2006"
   * Ad-hoc Analysis
   * Database Querying
   * Analyzed data from field operations to identify trends and report business opportunities to increase efficiency
-
+  """
+  
 +++
