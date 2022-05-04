@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.udacity.com"
   title = "Business Analyst Certification"
   certificate_url = "https://confirm.udacity.com/GQHEQMXK"
-  date_start = "Nov 2017"
-  date_end = "Jan 2018"
+  date_start = "2017-11-01"
+  date_end = "2018-02-01"
 #  description = "Learning how to use statistics and visuals to find and communicate insights. Learning how to use Structured Query Language (SQL) to extract and analyze data stored in databases. Learning how to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data."
 
 # [[item]]
