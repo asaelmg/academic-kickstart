@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
   name = "COVID Cases by Day"
-  tag = "COVID"
+  tag = "Demo"
   
   # [[content.filter_button]]
   # name = "Other"
