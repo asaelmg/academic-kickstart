@@ -48,13 +48,19 @@ subtitle = ""
   icon = "table"
   icon_pack = "fas"
   name = "Oracle SQL"
-  # description = "100%" 
+  # description = "100%"
   
+[[feature]]
+  icon = "table"
+  icon_pack = "fas"
+  name = "SAS"
+  # description = "100%"   
+
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "DataGrip"
-  # description = "100%"  
+  # description = "100%"
   
 # Uncomment to use emoji icons.
 # [[feature]]
