@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: short bio
 
-Hobbies and Interests:
+interests:
 - Business Intelligence
 - Analytics
 - Coding
