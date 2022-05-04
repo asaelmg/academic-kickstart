@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: short bio
 
-interests and hobbies:
+interests:
 - Business Intelligence
 - Analytics
 - Coding
-- Drumming
+- Reporting and Dashboarding
 
 education:
   courses:
