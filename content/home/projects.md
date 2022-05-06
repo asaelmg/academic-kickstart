@@ -23,6 +23,9 @@ subtitle = ""
   
 [[content.filter_button]]
   name = "COVID Cases by Day"
+  url = "https://mgregor.shinyapps.io/COVID-19/"
+  icon_pack = "fas"
+  icon = "download"
   tag = "Demo"
   
   # [[content.filter_button]]
@@ -66,12 +69,6 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
-  
-[cta]
-  url = "https://github.com/asaelmg/COVID-19-Db.git"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
   
 [advanced]
  # Custom CSS. 
