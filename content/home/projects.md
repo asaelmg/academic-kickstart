@@ -68,7 +68,7 @@ subtitle = ""
   # text_color_light = true
   
 [cta]
-  url = "git@github.com:asaelmg/COVID-19-Db.git"
+  url = "https://github.com/asaelmg/COVID-19-Db.git"
   label = "Get Started"
   icon_pack = "fas"
   icon = "download"
