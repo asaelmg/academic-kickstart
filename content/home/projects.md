@@ -13,7 +13,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "post"
+folder = "projects"
 
 # View.
 # Customize how projects are displayed.
@@ -37,17 +37,18 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
+# [[content.filter_button]]
+# name = "All"
+# tag = "*"
+
 [[content.filter_button]]
-name = "All"
+name = "R Dashboard Example"
+[R Dashboard Example]: https://www.google.com "R Dashboard Example"
 tag = "*"
 
-[[content.filter_button]]
-name = "Deep Learning"
-tag = "Deep Learning"
-
-[[content.filter_button]]
-name = "Other"
-tag = "Demo"
+# [[content.filter_button]]
+# name = "Other"
+# tag = "Demo"
 
 +++
 
