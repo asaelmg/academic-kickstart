@@ -32,17 +32,17 @@ name = "COVID Cases by Day"
 # icon = "download"
 tag = "*"
   
-[[content.filter_button]]
-name = "Other"
-tag = "Demo"
+# [[content.filter_button]]
+# name = "Other"
+# tag = "Demo"
   
-[[content.filter_button]]
-name = "Other"
-tag = "Demo"
+# [[content.filter_button]]
+# name = "Other"
+# tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "3"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -61,7 +61,7 @@ tag = "Demo"
   #   Any HTML color name or Hex value is valid.
   
  # Background color.
- color = "black"
+ # color = "black"
   
  # Background gradient.
  # gradient_start = "DeepSkyBlue"
