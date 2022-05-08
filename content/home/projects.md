@@ -27,9 +27,9 @@ subtitle = ""
   
 [[content.filter_button]]
 name = "COVID Cases by Day"
-# url = "https://mgregor.shinyapps.io/COVID-19/"
-# icon_pack = "fas"
-# icon = "download"
+url = "https://mgregor.shinyapps.io/COVID-19/"
+icon_pack = "fas"
+icon = "download"
 tag = "*"
   
 # [[content.filter_button]]
