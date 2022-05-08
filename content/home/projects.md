@@ -26,10 +26,10 @@ page_type = "project"
 filter_default = 0
   
 [[content.filter_button]]
-name = "COVID Cases by Day"
+name = "RCloud Dashboard Example"
 icon_pack = "fas"
 icon = "download"
-# url = "https://mgregor.shinyapps.io/COVID-19/"
+[RCloud Dashboard Example](https://mgregor.shinyapps.io/COVID-19/)
 tag = "*"
   
 # [[content.filter_button]]
