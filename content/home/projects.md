@@ -27,7 +27,7 @@ subtitle = ""
   
 [[content.filter_button]]
 name = "COVID Cases by Day"
-url = "https://mgregor.shinyapps.io/COVID-19/"
+# url = "https://mgregor.shinyapps.io/COVID-19/"
 # icon_pack = "fas"
 # icon = "download"
 tag = "*"
@@ -49,7 +49,7 @@ tag = "*"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -61,7 +61,7 @@ tag = "*"
   #   Any HTML color name or Hex value is valid.
   
  # Background color.
-color = "black"
+color = "grey"
   
  # Background gradient.
  # gradient_start = "DeepSkyBlue"
