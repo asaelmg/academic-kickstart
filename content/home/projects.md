@@ -28,8 +28,8 @@ subtitle = ""
 [[content.filter_button]]
 name = "COVID Cases by Day"
 url = "https://mgregor.shinyapps.io/COVID-19/"
-icon_pack = "fas"
-icon = "download"
+# icon_pack = "fas"
+# icon = "download"
 tag = "*"
   
 # [[content.filter_button]]
@@ -61,7 +61,7 @@ tag = "*"
   #   Any HTML color name or Hex value is valid.
   
  # Background color.
- # color = "black"
+color = "black"
   
  # Background gradient.
  # gradient_start = "DeepSkyBlue"
