@@ -43,7 +43,6 @@ filter_default = 0
 
 [[content.filter_button]]
 name = "R Dashboard Example"
-## organization_url = "https://www.udacity.com"
 tag = "*"
 
 # [[item]]
