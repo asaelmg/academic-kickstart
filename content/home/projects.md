@@ -42,8 +42,16 @@ filter_default = 0
 # tag = "*"
 
 [[content.filter_button]]
-name = "R Dashboard Example": https://www.google.com
+name = "R Dashboard Example"
 tag = "*"
+
+[[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com"
+  title = "Business Analyst Certification"
+  certificate_url = "https://confirm.udacity.com/GQHEQMXK"
+  date_start = "2017-11-01"
+  date_end = "2018-02-01"
 
 # [[content.filter_button]]
 # name = "Other"
