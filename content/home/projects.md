@@ -38,12 +38,16 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 [[content.filter_button]]
-name = "R Dashboard Example"
+name = "Churn Analytics"
 tag = "*"
 
 [[content.filter_button]]
-name = "Other"
-tag = "Demo"
+name = "Connects/Credit Analysis"
+tag = "*"
+
+[[content.filter_button]]
+name = "Equipment/Billing Discrepancies"
+tag = "*"
 
 +++
 
