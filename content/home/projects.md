@@ -29,7 +29,6 @@ filter_default = 0
 name = "RCloud Dashboard Example"
 icon_pack = "fas"
 icon = "download"
-[RCloud Dashboard Example](https://mgregor.shinyapps.io/COVID-19/)
 tag = "*"
   
 # [[content.filter_button]]
@@ -75,7 +74,9 @@ flip_alt_rows = false
 
 # Text color (true=light or false=dark).
 # text_color_light = true
-  
+
+[RCloud Dashboard Example](https://mgregor.shinyapps.io/COVID-19/)
+
 [advanced]
  # Custom CSS. 
  css_style = ""
