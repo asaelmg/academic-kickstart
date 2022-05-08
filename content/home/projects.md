@@ -42,8 +42,7 @@ filter_default = 0
 # tag = "*"
 
 [[content.filter_button]]
-name = "R Dashboard Example"
-[R Dashboard Example]: https://www.google.com "R Dashboard Example"
+name = [R Dashboard Example]: https://www.google.com
 tag = "*"
 
 # [[content.filter_button]]
