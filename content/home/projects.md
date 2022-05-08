@@ -22,7 +22,7 @@ view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
+widget_layout = 1
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -37,15 +37,15 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
-[[filter]]
+[[content.filter_button]]
 name = "All"
 tag = "*"
 
-[[filter]]
+[[content.filter_button]]
 name = "Deep Learning"
 tag = "Deep Learning"
 
-[[filter]]
+[[content.filter_button]]
 name = "Other"
 tag = "Demo"
 
