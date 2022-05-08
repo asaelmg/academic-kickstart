@@ -45,13 +45,25 @@ filter_default = 0
 name = "R Dashboard Example"
 tag = "*"
 
-[[item]]
-  organization = "Udacity"
-  organization_url = "https://www.udacity.com"
-  title = "Business Analyst Certification"
-  certificate_url = "https://confirm.udacity.com/GQHEQMXK"
-  date_start = "2017-11-01"
-  date_end = "2018-02-01"
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form>
+      <input type="button" onclick="window.location.href='https://www.w3docs.com';" value="w3docs" />
+    </form>
+  </body>
+</html>
+
+# [[item]]
+#  organization = "Udacity"
+#  organization_url = "https://www.udacity.com"
+#  title = "Business Analyst Certification"
+#  certificate_url = "https://confirm.udacity.com/GQHEQMXK"
+#  date_start = "2017-11-01"
+#  date_end = "2018-02-01"
 
 # [[content.filter_button]]
 # name = "Other"
