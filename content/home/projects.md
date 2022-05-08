@@ -37,10 +37,6 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
-# [[content.filter_button]]
-# name = "All"
-# tag = "*"
-
 [[content.filter_button]]
 name = "R Dashboard Example"
 tag = "*"
@@ -52,10 +48,6 @@ tag = "*"
 #  certificate_url = "https://confirm.udacity.com/GQHEQMXK"
 #  date_start = "2017-11-01"
 #  date_end = "2018-02-01"
-
-# [[content.filter_button]]
-# name = "Other"
-# tag = "Demo"
 
 +++
 
