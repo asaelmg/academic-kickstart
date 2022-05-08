@@ -30,9 +30,6 @@ name = "RCloud Dashboard Example"
 icon_pack = "fas"
 icon = "download"
 tag = "*"
-
-[Link]
-(https://mgregor.shinyapps.io/COVID-19/)
   
 # [[content.filter_button]]
 # name = "Other"
