@@ -29,7 +29,7 @@ filter_default = 0
 name = "COVID Cases by Day"
 icon_pack = "fas"
 icon = "download"
-url = "https://mgregor.shinyapps.io/COVID-19/"
+# url = "https://mgregor.shinyapps.io/COVID-19/"
 tag = "*"
   
 # [[content.filter_button]]
@@ -49,7 +49,7 @@ columns = "1"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-view = 1
+view = 2
 
   # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -60,7 +60,7 @@ flip_alt_rows = false
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
   
- # Background color.
+# Background color.
 # color = "grey"
   
  # Background gradient.
@@ -73,8 +73,8 @@ flip_alt_rows = false
  # image_darken = 0.6  
  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
- # Text color (true=light or false=dark).
-text_color_light = true
+# Text color (true=light or false=dark).
+# text_color_light = true
   
 [advanced]
  # Custom CSS. 
