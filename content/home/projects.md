@@ -18,11 +18,11 @@ folder = "projects"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+view = 0
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 1
+widget_layout = 0
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -41,13 +41,9 @@ filter_default = 0
 name = "R Dashboard Example"
 tag = "*"
 
-# [[item]]
-#  organization = "Udacity"
-#  organization_url = "https://www.udacity.com"
-#  title = "Business Analyst Certification"
-#  certificate_url = "https://confirm.udacity.com/GQHEQMXK"
-#  date_start = "2017-11-01"
-#  date_end = "2018-02-01"
+[[content.filter_button]]
+name = "Other"
+tag = "Demo"
 
 +++
 
