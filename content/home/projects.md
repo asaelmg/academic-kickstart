@@ -43,19 +43,8 @@ filter_default = 0
 
 [[content.filter_button]]
 name = "R Dashboard Example"
+organization_url = "https://www.udacity.com"
 tag = "*"
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <form>
-      <input type="button" onclick="window.location.href='https://www.w3docs.com';" value="w3docs" />
-    </form>
-  </body>
-</html>
 
 # [[item]]
 #  organization = "Udacity"
