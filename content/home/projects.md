@@ -26,7 +26,7 @@ page_type = "project"
 filter_default = 0
   
 [[content.filter_button]]
-name = "RCloud Dashboard Example"
+name = "RCloud Dashboard Example"(https://mgregor.shinyapps.io/COVID-19/)
 icon_pack = "fas"
 icon = "download"
 tag = "*"
@@ -74,8 +74,6 @@ flip_alt_rows = false
 
 # Text color (true=light or false=dark).
 # text_color_light = true
-
-[RCloud Dashboard Example](https://mgregor.shinyapps.io/COVID-19/)
 
 [advanced]
  # Custom CSS. 
