@@ -14,7 +14,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,13 +23,13 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+filter_default = 0
   
 [[content.filter_button]]
 name = "COVID Cases by Day"
-# url = "https://mgregor.shinyapps.io/COVID-19/"
 icon_pack = "fas"
 icon = "download"
+url = "https://mgregor.shinyapps.io/COVID-19/"
 tag = "*"
   
 # [[content.filter_button]]
@@ -42,17 +42,17 @@ tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+view = 1
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -74,7 +74,7 @@ tag = "*"
  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
  # Text color (true=light or false=dark).
- text_color_light = true
+text_color_light = true
   
 [advanced]
  # Custom CSS. 
