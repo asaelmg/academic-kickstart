@@ -25,11 +25,11 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+    tag = "test"
+    category = "unk"
+    publication_type = "main"
+    author = "unk"
+    external_link = "https://sourcethemes.com/academic/"
   
 [design]
   # Toggle between the various page layout types.
