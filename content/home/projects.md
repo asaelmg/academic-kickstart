@@ -38,7 +38,7 @@ filter_default = 0
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
 [[content.filter_button]]
-name = "Churn"(https://ag183h.shinyapps.io/basic_dashboard/)
+name = "Disconnect Analysis"
 tag = "*"
 
 [[content.filter_button]]
