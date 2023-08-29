@@ -47,7 +47,7 @@ tag = "*"
 
 [[content.filter_button]]
 name = "Equipment/Billing Discrepancies"
-url = "https://sourcethemes.com/academic/"
+external_link = "https://sourcethemes.com/academic/"
 tag = "*"
 
 +++
