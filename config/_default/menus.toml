@@ -15,7 +15,7 @@
 
  [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "https://ag183h.shinyapps.io/basic_dashboard/"
   weight = 30
 
 # [[main]]
